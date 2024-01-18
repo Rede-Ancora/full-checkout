@@ -1,5 +1,5 @@
 {
-    "name": "o2ti/full-checkout",
+    "name": "rede-ancora/full-checkout",
     "description": "Full Checkout",
     "license": [
         "OSL-3.0",
@@ -21,7 +21,7 @@
         "o2ti/input-masking": "100.1.*",
         "o2ti/social-login": "101.1.*",
         "o2ti/tax-document-validation-br": "100.1.*",
-        "o2ti/theme-full-checkout": "dev-Magento@2.4",
+        "rede-ancora/theme-full-checkout": "dev-Magento@2.4",
         "ext-json": "*"
     },
     "autoload": {
