@@ -21,7 +21,7 @@
         "o2ti/input-masking": "100.1.*",
         "o2ti/social-login": "101.1.*",
         "o2ti/tax-document-validation-br": "100.1.*",
-        "o2ti/theme-full-checkout": "100.1.*",
+        "o2ti/theme-full-checkout": "dev-Magento@2.4",
         "ext-json": "*"
     },
     "autoload": {
@@ -43,6 +43,10 @@
         {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:Rede-Ancora/theme-full-checkout.git"
         }
     ],
     "prefer-stable": true,
